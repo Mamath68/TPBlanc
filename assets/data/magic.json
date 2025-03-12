@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle couleur est associée à la destruction d'artefacts et d'enchantements dans Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Blanc",
+        "value": "blanc"
+      },
+      {
+        "id": 2,
+        "label": "Bleu",
+        "value": "bleu"
+      },
+      {
+        "id": 3,
+        "label": "Noir",
+        "value": "noir"
+      },
+      {
+        "id": 4,
+        "label": "Rouge",
+        "value": "rouge"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Quel est le nom du plan d'origine des Eldrazi?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Innistrad",
+        "value": "innistrad"
+      },
+      {
+        "id": 2,
+        "label": "Zendikar",
+        "value": "zendikar"
+      },
+      {
+        "id": 3,
+        "label": "Ravnica",
+        "value": "ravnica"
+      },
+      {
+        "id": 4,
+        "label": "Dominaria",
+        "value": "dominaria"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "question": "Quelle capacité permet à une créature d'attaquer sans être engagée?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Vigilance",
+        "value": "vigilance"
+      },
+      {
+        "id": 2,
+        "label": "Initiative",
+        "value": "initiative"
+      },
+      {
+        "id": 3,
+        "label": "Célérité",
+        "value": "celerite"
+      },
+      {
+        "id": 4,
+        "label": "Contact mortel",
+        "value": "contact_mortel"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Quel est le nom des cinq couleurs de mana dans Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Blanc, Bleu, Vert, Rouge, Jaune",
+        "value": "blanc_bleu_vert_rouge_jaune"
+      },
+      {
+        "id": 2,
+        "label": "Blanc, Bleu, Noir, Rouge, Vert",
+        "value": "blanc_bleu_noir_rouge_vert"
+      },
+      {
+        "id": 3,
+        "label": "Argent, Azure, Onyx, Écarlate, Émeraude",
+        "value": "argent_azure_onyx_ecarlate_emeraude"
+      },
+      {
+        "id": 4,
+        "label": "Blanc, Azur, Noir, Pourpre, Vert",
+        "value": "blanc_azur_noir_pourpre_vert"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 5,
+    "question": "Qui est le créateur de Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Gary Gygax",
+        "value": "gary_gygax"
+      },
+      {
+        "id": 2,
+        "label": "Richard Garfield",
+        "value": "richard_garfield"
+      },
+      {
+        "id": 3,
+        "label": "Mark Rosewater",
+        "value": "mark_rosewater"
+      },
+      {
+        "id": 4,
+        "label": "Peter Adkison",
+        "value": "peter_adkison"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "question": "Quelle est la première édition de Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Alpha",
+        "value": "alpha"
+      },
+      {
+        "id": 2,
+        "label": "Beta",
+        "value": "beta"
+      },
+      {
+        "id": 3,
+        "label": "Unlimited",
+        "value": "unlimited"
+      },
+      {
+        "id": 4,
+        "label": "Revised",
+        "value": "revised"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 7,
+    "question": "Quelle est la valeur de la vie d'un joueur au début d'une partie standard de Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "10 points de vie",
+        "value": "10"
+      },
+      {
+        "id": 2,
+        "label": "15 points de vie",
+        "value": "15"
+      },
+      {
+        "id": 3,
+        "label": "20 points de vie",
+        "value": "20"
+      },
+      {
+        "id": 4,
+        "label": "25 points de vie",
+        "value": "25"
+      }
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 8,
+    "question": "Quelle est la capacité qui permet à une créature d'attaquer dès son arrivée sur le champ de bataille?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Flash",
+        "value": "flash"
+      },
+      {
+        "id": 2,
+        "label": "Célérité",
+        "value": "celerite"
+      },
+      {
+        "id": 3,
+        "label": "Initiative",
+        "value": "initiative"
+      },
+      {
+        "id": 4,
+        "label": "Piétinement",
+        "value": "pietinement"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 9,
+    "question": "Quel est le nom du plan urbain où se trouvent les dix guildes?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Ravnica",
+        "value": "ravnica"
+      },
+      {
+        "id": 2,
+        "label": "Innistrad",
+        "value": "innistrad"
+      },
+      {
+        "id": 3,
+        "label": "Mirrodin",
+        "value": "mirrodin"
+      },
+      {
+        "id": 4,
+        "label": "Kamigawa",
+        "value": "kamigawa"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "question": "Quel type de carte représente une ressource de mana dans Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Artefact",
+        "value": "artefact"
+      },
+      {
+        "id": 2,
+        "label": "Terrain",
+        "value": "terrain"
+      },
+      {
+        "id": 3,
+        "label": "Enchantement",
+        "value": "enchantement"
+      },
+      {
+        "id": 4,
+        "label": "Rituel",
+        "value": "rituel"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "question": "Quelle est la rareté la plus commune dans Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Commune",
+        "value": "commune"
+      },
+      {
+        "id": 2,
+        "label": "Peu commune",
+        "value": "peu_commune"
+      },
+      {
+        "id": 3,
+        "label": "Rare",
+        "value": "rare"
+      },
+      {
+        "id": 4,
+        "label": "Mythique",
+        "value": "mythique"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "question": "Quel est le nom des cinq Planeswalkers originaux (les 'Lorwyn Five')?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Jace, Liliana, Chandra, Ajani, Garruk",
+        "value": "jace_liliana_chandra_ajani_garruk"
+      },
+      {
+        "id": 2,
+        "label": "Jace, Liliana, Chandra, Gideon, Nissa",
+        "value": "jace_liliana_chandra_gideon_nissa"
+      },
+      {
+        "id": 3,
+        "label": "Jace, Liliana, Chandra, Ajani, Nissa",
+        "value": "jace_liliana_chandra_ajani_nissa"
+      },
+      {
+        "id": 4,
+        "label": "Jace, Liliana, Chandra, Gideon, Garruk",
+        "value": "jace_liliana_chandra_gideon_garruk"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "question": "Quelle mécanique permet de jouer des sorts sans payer leur coût de mana?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Cascade",
+        "value": "cascade"
+      },
+      {
+        "id": 2,
+        "label": "Flashback",
+        "value": "flashback"
+      },
+      {
+        "id": 3,
+        "label": "Déluge",
+        "value": "deluge"
+      },
+      {
+        "id": 4,
+        "label": "Miracle",
+        "value": "miracle"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 14,
+    "question": "Quel est le nombre maximum de copies d'une même carte (hors terrains de base) autorisé dans un deck Standard?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "2",
+        "value": "2"
+      },
+      {
+        "id": 2,
+        "label": "3",
+        "value": "3"
+      },
+      {
+        "id": 3,
+        "label": "4",
+        "value": "4"
+      },
+      {
+        "id": 4,
+        "label": "5",
+        "value": "5"
+      }
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 15,
+    "question": "Quelle couleur est principalement associée au contre-sort dans Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Blanc",
+        "value": "blanc"
+      },
+      {
+        "id": 2,
+        "label": "Bleu",
+        "value": "bleu"
+      },
+      {
+        "id": 3,
+        "label": "Noir",
+        "value": "noir"
+      },
+      {
+        "id": 4,
+        "label": "Rouge",
+        "value": "rouge"
+      }
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 16,
+    "question": "Quel est le coût de mana du sort légendaire 'Black Lotus'?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "0",
+        "value": "0"
+      },
+      {
+        "id": 2,
+        "label": "1",
+        "value": "1"
+      },
+      {
+        "id": 3,
+        "label": "2",
+        "value": "2"
+      },
+      {
+        "id": 4,
+        "label": "3",
+        "value": "3"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "question": "Quel format de jeu Magic: The Gathering utilise un deck de 100 cartes avec un commandant?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Standard",
+        "value": "standard"
+      },
+      {
+        "id": 2,
+        "label": "Modern",
+        "value": "modern"
+      },
+      {
+        "id": 3,
+        "label": "Legacy",
+        "value": "legacy"
+      },
+      {
+        "id": 4,
+        "label": "Commander (EDH)",
+        "value": "commander"
+      }
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "id": 18,
+    "question": "Quels sont les deux types de cartes qui restent sur le champ de bataille?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Créature et Rituel",
+        "value": "creature_rituel"
+      },
+      {
+        "id": 2,
+        "label": "Terrain et Enchantement",
+        "value": "terrain_enchantement"
+      },
+      {
+        "id": 3,
+        "label": "Créature et Terrain",
+        "value": "creature_terrain"
+      },
+      {
+        "id": 4,
+        "label": "Éphémère et Artefact",
+        "value": "ephemere_artefact"
+      }
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 19,
+    "question": "Quelle capacité permet à une créature de bloquer comme si elle avait le vol?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Portée",
+        "value": "portee"
+      },
+      {
+        "id": 2,
+        "label": "Vol",
+        "value": "vol"
+      },
+      {
+        "id": 3,
+        "label": "Piétinement",
+        "value": "pietinement"
+      },
+      {
+        "id": 4,
+        "label": "Lien de vie",
+        "value": "lien_de_vie"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "question": "Quelle compagnie publie Magic: The Gathering?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Hasbro",
+        "value": "hasbro"
+      },
+      {
+        "id": 2,
+        "label": "Wizards of the Coast",
+        "value": "wizards_of_the_coast"
+      },
+      {
+        "id": 3,
+        "label": "Fantasy Flight Games",
+        "value": "fantasy_flight_games"
+      },
+      {
+        "id": 4,
+        "label": "Konami",
+        "value": "konami"
+      }
+    ],
+    "correctAnswer": 2
+  }
+]

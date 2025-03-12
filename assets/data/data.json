@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la capitale de la France?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Paris",
+        "value": "paris"
+      },
+      {
+        "id": 2,
+        "label": "Lyon",
+        "value": "lyon"
+      },
+      {
+        "id": 3,
+        "label": "Marseille",
+        "value": "marseille"
+      },
+      {
+        "id": 4,
+        "label": "Bordeaux",
+        "value": "bordeaux"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Quel est le plus grand océan du monde?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Océan Atlantique",
+        "value": "atlantique"
+      },
+      {
+        "id": 2,
+        "label": "Océan Indien",
+        "value": "indien"
+      },
+      {
+        "id": 3,
+        "label": "Océan Arctique",
+        "value": "arctique"
+      },
+      {
+        "id": 4,
+        "label": "Océan Pacifique",
+        "value": "pacifique"
+      }
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "id": 3,
+    "question": "Quel est le symbole chimique de l'or?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Au",
+        "value": "au"
+      },
+      {
+        "id": 2,
+        "label": "Ag",
+        "value": "ag"
+      },
+      {
+        "id": 3,
+        "label": "O",
+        "value": "o"
+      },
+      {
+        "id": 4,
+        "label": "Fe",
+        "value": "fe"
+      }
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 4,
+    "question": "Combien de continents y a-t-il sur Terre?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "5",
+        "value": "5"
+      },
+      {
+        "id": 2,
+        "label": "6",
+        "value": "6"
+      },
+      {
+        "id": 3,
+        "label": "7",
+        "value": "7"
+      },
+      {
+        "id": 4,
+        "label": "8",
+        "value": "8"
+      }
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 5,
+    "question": "Qui a écrit 'Les Misérables'?",
+    "answers": [
+      {
+        "id": 1,
+        "label": "Victor Hugo",
+        "value": "victor_hugo"
+      },
+      {
+        "id": 2,
+        "label": "Emile Zola",
+        "value": "emile_zola"
+      },
+      {
+        "id": 3,
+        "label": "Honoré de Balzac",
+        "value": "balzac"
+      },
+      {
+        "id": 4,
+        "label": "Gustave Flaubert",
+        "value": "flaubert"
+      }
+    ],
+    "correctAnswer": 1
+  }
+]

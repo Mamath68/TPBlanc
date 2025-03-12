@@ -1,18 +1,14 @@
 import {StyleSheet} from "react-native";
 
 export const InputStyles = StyleSheet.create({
-    container: {
-        flex: 1,
-        alignItems: 'center',
-        justifyContent: 'center',
-    },
-    title: {
-        fontSize: 20,
-        fontWeight: 'bold',
-    },
-    separator: {
-        marginVertical: 30,
-        height: 1,
-        width: '80%',
+    input: {
+        height: 40,
+        fontSize: 18,
+        marginVertical: 5,
+        borderBottomColor: 'gray',
+        borderBottomWidth: 2,
+        paddingLeft: 5,
+        paddingVertical: 0,
+        lineHeight: 20,
     },
 });

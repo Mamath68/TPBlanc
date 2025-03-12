@@ -1,18 +1,18 @@
-import {StyleSheet} from "react-native";
+import {StyleSheet} from 'react-native';
 
 export const ButtonStyles = StyleSheet.create({
-    container: {
-        flex: 1,
+    btn: {
+        backgroundColor: 'blue',
+        width: 200,
+        borderRadius: 5,
+        margin: 20,
         alignItems: 'center',
         justifyContent: 'center',
     },
-    title: {
-        fontSize: 20,
-        fontWeight: 'bold',
-    },
-    separator: {
-        marginVertical: 30,
-        height: 1,
-        width: '80%',
+
+    btnTxt: {
+        color: '#ECF0F1',
+        textAlign: 'center',
+        padding: 10,
     },
 });
